@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
         Float f = null;
         try {
             StringBuilder strBuild = new StringBuilder();
-            strBuild.append(android.os.Build.VERSION.RELEASE.substring(0, 2));
+            strBuild.append(android.os.Build.VERSION.RELEASE);
             f = new Float(strBuild.toString());
         } catch (NumberFormatException e) {
 

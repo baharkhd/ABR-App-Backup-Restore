@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0_da4f975bb31e597c0179ae39d521a4a2ffd60355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0_12156e47d2fe0666a1183aa6e985f15db8f6966a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.2.0_c56c04877e4ba71540f89822fe6c6b62f910d5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_912c223127dc5780069e8ff7ecbb764fe7be5417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0_f1191584c73ed82037170b63184c47f031f829a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0_9fd14fb923b68912f1cbf5b5fb6ad71b709b5903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fdbd1bd6503815f2cef20a9a137005e5953aad1">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.0_5268ad2eab9dbe64b9b653fd5675cc06eb672f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0_54d8e2c55250d34a9df246631324c8d81931db24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.2.0_751f2766db7cbba05aa8f7f09ef44f231c0a77f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0_16f1cecaae4a3668b3b33684193b43da5c9d160d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0_8bf1dd803aa87ed3e7b2f5d7028ff17fc41551ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0_54bd7a7f2c3546820b4bb02413d893fba65da758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0_46551d3790ea159cad9b4c55ddedf73b24fa45ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0_81aeb567b6c08ee9eed73471b3a6e1d0126a1e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0_c38f741cd30a2743bbdbb62a71a4b85f93cc3ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.0_7935a7e57bf02be80044f547b003aac2e6e90c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0_859fac19b6371666d25c974a966c39b19af87b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.2.0_c26e93564d204a13639977d93b62c659aae877e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.0_52cb647163979ee69bca113085bdc00cd093ea5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.2.0_4c00b72b19b61a81817f4282f4d94291e7eb5b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.0_fa942d539b7fcf80353890bdd361820d463808c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/Users/bahar/Desktop/ABR-App-Backup-Restore/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0_04fdae21364b54b7a39f65de56ccecd3adc9b44f.jar" />
+    </item>
+
+</items>
