@@ -49,7 +49,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textColor="@color/grey_hard"
-            android:text="No Item"/>
+            android:text="موردی وجود ندارد!"/>
     </LinearLayout>
 
 </RelativeLayout>

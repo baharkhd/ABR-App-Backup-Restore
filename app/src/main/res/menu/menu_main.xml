@@ -4,18 +4,23 @@
     tools:context=".MainActivity">
     <item android:id="@+id/action_search"
         android:title="search"
-
+        android:icon="@drawable/backup_flag"
         app:actionViewClass="android.support.v7.widget.SearchView"
         app:showAsAction="ifRoom" />
+
 <!--    android:icon="@drawable/abc_ic_search_api_mtrl_alpha"-->
 
     <item android:id="@+id/action_rate"
-        android:title="Rate this app"
+        android:textDirection="locale"
+        android:title="امتیاز دهید"
+        android:supportsRtl="true"
         android:orderInCategory="100"
         app:showAsAction="never" />
 
     <item android:id="@+id/action_about"
-        android:title="About"
+        android:textDirection="locale"
+        android:title="درباره‌ی برنامه"
         android:orderInCategory="100"
+        android:supportsRtl="true"
         app:showAsAction="never" />
 </menu>

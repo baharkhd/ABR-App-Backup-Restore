@@ -4,7 +4,9 @@ import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.RequiresApi;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
@@ -51,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void onCreateProcess() {
         actionBar   = getSupportActionBar();
         viewPager   = (ViewPager) findViewById(R.id.viewpager);
@@ -210,9 +213,11 @@ public class MainActivity extends AppCompatActivity {
         Float f = null;
         try {
             StringBuilder strBuild = new StringBuilder();
-            strBuild.append(android.os.Build.VERSION.RELEASE);
+//            System.out.println(Build.VERSION.RELEASE + "-------------------");
+            strBuild.append(Build.VERSION.RELEASE);
             f = new Float(strBuild.toString());
         } catch (NumberFormatException e) {
+
 
         }
         return f.floatValue();
@@ -239,6 +244,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onResume() {
         if(!PermissionUtil.isAllPermissionGranted(this)){

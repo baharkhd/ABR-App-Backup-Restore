@@ -4,19 +4,19 @@
 
 
     <item android:id="@+id/action_backup"
-        android:title="Backup"
+        android:title="پشنیبان‌گیری"
         android:orderInCategory="100"
         android:icon="@drawable/ic_backup"
         app:showAsAction="always"/>
 
     <item android:id="@+id/action_check_all"
-        android:title="Check All"
+        android:title="چک کردن همه"
         android:orderInCategory="100"
         android:icon="@drawable/ic_check_all"
         app:showAsAction="always" />
 
     <item android:id="@+id/action_uninstall"
-        android:title="Uninstall"
+        android:title="حدف"
         android:orderInCategory="100"
         app:showAsAction="never"/>
 </menu>

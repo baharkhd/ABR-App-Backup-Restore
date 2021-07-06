@@ -79,7 +79,7 @@ public class BackupFragment extends Fragment {
 
     public void refresh(boolean fab_flag) {
         if (taskRunning) {
-            Snackbar.make(view, "Task still running", Snackbar.LENGTH_SHORT).show();
+            Snackbar.make(view, "تسک  همچنان در حال اجرا شدن است", Snackbar.LENGTH_SHORT).show();
         } else {
             new AppListLoaderTask(fab_flag).execute();
         }
@@ -148,7 +148,7 @@ public class BackupFragment extends Fragment {
                 listView.setAdapter(bAdapter);
                 setMultipleChoice();
             } else {
-                Snackbar.make(view, "Failed load your applications!", Snackbar.LENGTH_SHORT).show();
+                Snackbar.make(view, "برنامه های شما بارگیری نشد!", Snackbar.LENGTH_SHORT).show();
             }
             taskRunning = false;
             if (fab_flag) {
@@ -224,8 +224,8 @@ public class BackupFragment extends Fragment {
             if (result != null) {
                 AlertDialog.Builder alert = new AlertDialog.Builder(getActivity());
                 alert.setCancelable(false);
-                alert.setTitle("Backup Completed");
-                alert.setMessage("App Location: " + Constant.BACKUP_FOLDER);
+                alert.setTitle("پشتیبان‌گیری کامل شد!");
+                alert.setMessage("آدرس برنامه: " + Constant.BACKUP_FOLDER);
                 alert.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dg, int arg1) {
@@ -237,7 +237,7 @@ public class BackupFragment extends Fragment {
                 });
                 alert.show();
             } else {
-                Toast.makeText(getActivity(), "App backup failed", Toast.LENGTH_LONG).show();
+                Toast.makeText(getActivity(), "پشتیبان‌گیری ناموفق بود.", Toast.LENGTH_LONG).show();
             }
         }
     }
@@ -322,10 +322,10 @@ public class BackupFragment extends Fragment {
     private void dialogAppOption(final int position) {
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         final BackupModel m = bAdapter.getItem(position);
-        builder.setTitle("What would you like to do?");
+        builder.setTitle("آیا می‌خواهید یکی از کار‌های زیر را انجام دهید؟");
         ListView listView = new ListView(getActivity());
         listView.setPadding(25, 25, 25, 25);
-        String[] stringArray = new String[]{"Backup", "Uninstall", "Details"};
+        String[] stringArray = new String[]{"پشتیبان‌گیری", "حذف برنامه", "جزئیات"};
         listView.setAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, stringArray));
         builder.setView(listView);
         final AppCompatDialog dialog = builder.create();

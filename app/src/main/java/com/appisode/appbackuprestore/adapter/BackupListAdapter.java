@@ -94,7 +94,7 @@ public class BackupListAdapter extends BaseAdapter {
         }
 
         holder.txt_title.setText(item.getApp_name());
-        holder.txt_version.setText("version : " + item.getVersion_name());
+        holder.txt_version.setText("نسخه : " + item.getVersion_name());
         holder.txt_size.setText(Formatter.formatFileSize(contex, item.getApp_memory()));
         holder.image.setImageDrawable(item.getApp_icon());
         if (item.isExist()) {
